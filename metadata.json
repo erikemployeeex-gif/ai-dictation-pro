@@ -1,0 +1,7 @@
+{
+  "name": "English Dictation Master",
+  "description": "An application to practice English dictation using a user-provided word list. The app generates a text based on current news, reads the full text aloud, and grades the user's transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
